@@ -1,0 +1,19 @@
+{
+	"businessUnit": [{
+			"name": "Appliances"
+		},
+		{
+			"name": "Cloud and Data Management"
+		},
+		{
+			"name": "Data Protection and Goveranance"
+		},
+		{
+			"name": "Storage and SDS"
+		},
+		{
+			"name": "Field Operations"
+		}
+	]
+
+}
